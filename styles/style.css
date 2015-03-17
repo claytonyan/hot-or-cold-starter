@@ -211,6 +211,7 @@ h1 {
 h2 {
 	margin: 0 auto;	
 	background: #cc324b;
+	transition: all 500ms cubic-bezier(0.000, 0.465, 0.655, 1.015);
 	padding: 1em 0.4em;
 	font-size: 1.5em;
 	font-weight: 400;
